@@ -103,7 +103,7 @@ Tracks the actual usage of the library by students.
 
 The database schema and entity relationships are shown below.
 
-![ER Diagram](diagram/er_diagram.png)
+![ER Diagram](Diagram/er_diagram.png)
 
 ---
 
